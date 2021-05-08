@@ -1,3 +1,3 @@
 # CoverSongIdentification
 
-Projeto do meu portfólio em construção...
+https://andygrammer.github.io/blog/
